@@ -48,3 +48,6 @@
     ```
 4. Paste all mintty themes in <b>%HOMEPATH%/.mintty/themes</b>
 5. Download Meslo font
+    ```
+    git clone https://github.com/powerline/fonts.git
+    ```
