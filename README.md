@@ -1,6 +1,6 @@
 # oh-my-zsh
 ### This is how the Final Setup will look like : 😎
-![bash](./assets/bash.png)
+![bash](./assets/git-bash.png)
 ## Install oh-my-zsh on Git Bash
 1. Create a <b>git</b> folder in <b>%HOMEPATH%/.config</b>
 2. Save this file as git-prompt.sh in git
