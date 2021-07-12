@@ -1,8 +1,10 @@
 # oh-my-zsh
+### This is how the Final Setup will look like : 😎
+![bash](./assets/bash.png)
 ## Install oh-my-zsh on Git Bash
-
 1. Create a <b>git</b> folder in <b>%HOMEPATH%/.config</b>
 2. Save this file as git-prompt.sh in git
+
     ```
     PS1='\[\033]0; Bash | \W\007\]' 		# set window title
     PS1="$PS1"'\n'							# new line
